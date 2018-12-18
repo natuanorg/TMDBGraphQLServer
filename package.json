@@ -1,0 +1,8 @@
+{
+  "name": "TMDBGraphQLServer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/natuanorg/TMDBGraphQLServer.git",
+  "author": "Nguyễn Anh Tuấn <tuanna@tripath.vn>",
+  "license": "MIT"
+}
